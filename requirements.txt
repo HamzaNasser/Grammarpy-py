@@ -1,0 +1,2 @@
+pip3 install pyenchant
+pip3 install re
